@@ -1,0 +1,775 @@
+﻿# This file contains the Hydromet CBTT-PCODE datasets that will be 
+#	processed for the RISE json-file payload
+#
+#	CBTT: The Hydromet CBTT code (gcl, luc, jck, etc)
+#	PCODE: The Hydromet PCODE (fb, af, qd, etc)
+#	RESULT-TYPE: RISE can accept observed or modeled
+#	UNITS: The data units (cfs, acre-feet, etc)
+#	TIMESTEP: instant, daily, or monthly	
+#
+# POC: Jon Rocha, jrocha@usbr.gov
+#CBTT, PCODE, RESULT-TYPE, UNITS, TIMESTEP
+aga,af,observed,acre-feet,daily
+aga,af,observed,acre-feet,monthly
+aga,fb,observed,feet,daily
+aga,fb,observed,feet,monthly
+aga,gh,observed,feet,instant
+aga,im,observed,1000 af,monthly
+aga,mm,observed,degF,daily
+aga,mn,observed,degF,daily
+aga,mx,observed,degF,daily
+aga,ob,observed,degF,instant
+aga,om,observed,1000 af,monthly
+aga,pc,observed,inches,instant
+aga,pm,observed,inches,monthly
+aga,pp,observed,inches,daily
+aga,pu,observed,inches,daily
+aga,q,observed,cfs,instant
+aga,qc,observed,cfs,instant
+aga,qd,observed,cfs,daily
+aga,qj,observed,cfs,daily
+aga,qr,observed,cfs,daily
+aga,qrd,observed,cfs,daily
+aga,qs,observed,cfs,daily
+aga,qsd,observed,cfs,daily
+amf,af,observed,acre-feet,daily
+amf,af,observed,acre-feet,monthly
+amf,fb,observed,feet,daily
+amf,fb,observed,feet,monthly
+amf,id,observed,cfs,daily
+amf,im,observed,1000 af,monthly
+amf,mm,observed,degF,daily
+amf,mn,observed,degF,daily
+amf,mx,observed,degF,daily
+amf,ob,observed,degF,instant
+amf,om,observed,1000 af,monthly
+amf,pc,observed,inches,instant
+amf,pm,observed,inches,monthly
+amf,pp,observed,inches,daily
+amf,pu,observed,inches,daily
+amf,qm,observed,1000 af,monthly
+and,af,observed,acre-feet,daily
+and,af,observed,acre-feet,monthly
+and,fb,observed,feet,daily
+and,fb,observed,feet,monthly
+and,gh,observed,feet,instant
+and,im,observed,1000 af,monthly
+and,mm,observed,degF,daily
+and,mn,observed,degF,daily
+and,mx,observed,degF,daily
+and,ob,observed,degF,instant
+and,om,observed,1000 af,monthly
+and,pc,observed,inches,instant
+and,pm,observed,inches,monthly
+and,pp,observed,inches,daily
+and,pu,observed,inches,daily
+and,qm,observed,1000 af,monthly
+and,qv,observed,cfs,daily
+and,ud,observed,degAz,daily
+and,wd,observed,degAz,instant
+and,wf,observed,degF,instant
+and,ws,observed,mph,instant
+and,wz,observed,degF,instant
+ark,af,observed,acre-feet,daily
+ark,af,observed,acre-feet,monthly
+ark,fb,observed,feet,daily
+ark,fb,observed,feet,monthly
+ark,id,observed,cfs,daily
+ark,im,observed,1000 af,monthly
+ark,mm,observed,degF,daily
+ark,mn,observed,degF,daily
+ark,mx,observed,degF,daily
+ark,ob,observed,degF,instant
+ark,om,observed,1000 af,monthly
+ark,pc,observed,inches,instant
+ark,pm,observed,inches,monthly
+ark,pp,observed,inches,daily
+ark,pu,observed,inches,daily
+ark,ud,observed,degAz,daily
+ark,wd,observed,degAz,instant
+ark,ws,observed,mph,instant
+beu,af,observed,acre-feet,daily
+beu,af,observed,acre-feet,monthly
+beu,fb,observed,feet,daily
+beu,fb,observed,feet,monthly
+beu,im,observed,1000 af,monthly
+beu,om,observed,1000 af,monthly
+beu,pm,observed,inches,monthly
+beu,qm,observed,1000 af,monthly
+beu,qu,observed,cfs,daily
+beu,qu,observed,cfs,monthly
+bnk,af,observed,acre-feet,daily
+bnk,af,observed,acre-feet,monthly
+bnk,fb,observed,feet,daily
+bnk,fb,observed,feet,monthly
+bnk,im,observed,1000 af,monthly
+bnk,om,observed,1000 af,monthly
+bnk,pm,observed,inches,monthly
+bnk,qp,observed,cfs,daily
+brn,fb,observed,feet,daily
+brn,fb,observed,feet,monthly
+brn,id,observed,cfs,daily
+bul,af,observed,acre-feet,daily
+bul,af,observed,acre-feet,monthly
+bul,fb,observed,feet,daily
+bul,fb,observed,feet,monthly
+bul,im,observed,1000 af,monthly
+bul,mm,observed,degF,daily
+bul,mn,observed,degF,daily
+bul,mx,observed,degF,daily
+bul,ob,observed,degF,instant
+bul,om,observed,1000 af,monthly
+bul,pc,observed,inches,instant
+bul,pm,observed,inches,monthly
+bul,pp,observed,inches,daily
+bul,pu,observed,inches,daily
+bul,qc,observed,cfs,instant
+bul,qd,observed,cfs,daily
+bul,qj,observed,cfs,daily
+bul,qm,observed,1000 af,monthly
+bul,qu,observed,cfs,daily
+bul,qu,observed,cfs,monthly
+bum,af,observed,acre-feet,daily
+bum,af,observed,acre-feet,monthly
+bum,fb,observed,feet,daily
+bum,fb,observed,feet,monthly
+bum,gh,observed,feet,instant
+bum,im,observed,1000 af,monthly
+bum,mm,observed,degF,daily
+bum,mn,observed,degF,daily
+bum,mx,observed,degF,daily
+bum,ob,observed,degF,instant
+bum,om,observed,1000 af,monthly
+bum,pc,observed,inches,instant
+bum,pm,observed,inches,monthly
+bum,pp,observed,inches,daily
+bum,q,observed,cfs,instant
+bum,qd,observed,cfs,daily
+bum,qm,observed,1000 af,monthly
+bum,qu,observed,cfs,daily
+bum,qu,observed,cfs,monthly
+ccl,af,observed,acre-feet,daily
+ccl,af,observed,acre-feet,monthly
+ccl,fb,observed,feet,daily
+ccl,fb,observed,feet,monthly
+ccl,im,observed,1000 af,monthly
+ccl,om,observed,1000 af,monthly
+cle,af,observed,acre-feet,daily
+cle,af,observed,acre-feet,monthly
+cle,fb,observed,feet,daily
+cle,fb,observed,feet,monthly
+cle,gh,observed,feet,instant
+cle,hj,observed,feet,instant
+cle,im,observed,1000 af,monthly
+cle,mm,observed,degF,daily
+cle,mn,observed,degF,daily
+cle,mx,observed,degF,daily
+cle,ob,observed,degF,instant
+cle,om,observed,1000 af,monthly
+cle,pc,observed,inches,instant
+cle,pm,observed,inches,monthly
+cle,pp,observed,inches,daily
+cle,q,observed,cfs,instant
+cle,qd,observed,cfs,daily
+cle,qm,observed,1000 af,monthly
+cle,qu,observed,cfs,daily
+cle,qu,observed,cfs,monthly
+cle,wd,observed,degAz,instant
+clr,af,observed,acre-feet,daily
+clr,af,observed,acre-feet,monthly
+clr,fb,observed,feet,daily
+clr,fb,observed,feet,monthly
+cls,af,observed,acre-feet,daily
+cls,af,observed,acre-feet,monthly
+cls,fb,observed,feet,daily
+cls,fb,observed,feet,monthly
+cmo,af,observed,acre-feet,daily
+cmo,af,observed,acre-feet,monthly
+cmo,fb,observed,feet,daily
+cmo,fb,observed,feet,monthly
+cmo,im,observed,1000 af,monthly
+cmo,mm,observed,degF,daily
+cmo,mn,observed,degF,daily
+cmo,mx,observed,degF,daily
+cmo,ob,observed,degF,instant
+cmo,om,observed,1000 af,monthly
+cmo,pm,observed,inches,monthly
+cra,af,observed,acre-feet,daily
+cra,af,observed,acre-feet,monthly
+cra,fb,observed,feet,daily
+cra,fb,observed,feet,monthly
+cra,om,observed,1000 af,monthly
+cre,af,observed,acre-feet,daily
+cre,af,observed,acre-feet,monthly
+cre,fb,observed,feet,daily
+cre,fb,observed,feet,monthly
+cre,im,observed,1000 af,monthly
+cre,om,observed,1000 af,monthly
+csc,af,observed,acre-feet,daily
+csc,af,observed,acre-feet,monthly
+csc,fb,observed,feet,daily
+csc,fb,observed,feet,monthly
+csc,id,observed,cfs,daily
+csc,im,observed,1000 af,monthly
+csc,mm,observed,degF,daily
+csc,mn,observed,degF,daily
+csc,mx,observed,degF,daily
+csc,ob,observed,degF,instant
+csc,om,observed,1000 af,monthly
+csc,pc,observed,inches,instant
+csc,pm,observed,inches,monthly
+csc,pp,observed,inches,daily
+csc,pu,observed,inches,daily
+csc,qm,observed,1000 af,monthly
+ded,af,observed,acre-feet,daily
+ded,af,observed,acre-feet,monthly
+ded,fb,observed,feet,daily
+ded,fb,observed,feet,monthly
+ded,im,observed,1000 af,monthly
+ded,mm,observed,degF,daily
+ded,mn,observed,degF,daily
+ded,mx,observed,degF,daily
+ded,ob,observed,degF,instant
+ded,om,observed,1000 af,monthly
+ded,pc,observed,inches,instant
+ded,pm,observed,inches,monthly
+ded,pp,observed,inches,daily
+ded,pu,observed,inches,daily
+emi,af,observed,acre-feet,daily
+emi,af,observed,acre-feet,monthly
+emi,fb,observed,feet,daily
+emi,fb,observed,feet,monthly
+emi,gh,observed,feet,instant
+emi,im,observed,1000 af,monthly
+emi,mm,observed,degF,daily
+emi,mn,observed,degF,daily
+emi,mx,observed,degF,daily
+emi,ob,observed,degF,instant
+emi,om,observed,1000 af,monthly
+emi,pc,observed,inches,instant
+emi,pm,observed,inches,monthly
+emi,pp,observed,inches,daily
+emi,pu,observed,inches,daily
+emi,q,observed,cfs,instant
+emi,qc,observed,cfs,instant
+emi,qd,observed,cfs,daily
+emi,qj,observed,cfs,daily
+emi,qm,observed,1000 af,monthly
+emi,qr,observed,cfs,daily
+emi,qrd,observed,cfs,daily
+emi,qs,observed,cfs,daily
+emi,qsd,observed,cfs,daily
+emi,qu,observed,cfs,daily
+emi,qu,observed,cfs,monthly
+emi,wf,observed,degF,instant
+emm,af,observed,acre-feet,daily
+emm,af,observed,acre-feet,monthly
+emm,fb,observed,feet,daily
+emm,fb,observed,feet,monthly
+emm,gh,observed,feet,instant
+emm,hj,observed,feet,instant
+emm,q,observed,cfs,instant
+emm,qd,observed,cfs,daily
+emm,qm,observed,1000 af,monthly
+emm,qu,observed,cfs,daily
+emm,qu,observed,cfs,monthly
+emm,qv,observed,cfs,daily
+fis,af,observed,acre-feet,daily
+fis,af,observed,acre-feet,monthly
+fis,fb,observed,feet,daily
+fis,fb,observed,feet,monthly
+fis,im,observed,1000 af,monthly
+fis,mm,observed,degF,daily
+fis,mn,observed,degF,daily
+fis,mx,observed,degF,daily
+fis,ob,observed,degF,instant
+fis,om,observed,1000 af,monthly
+fis,pm,observed,inches,monthly
+for,af,observed,acre-feet,daily
+for,af,observed,acre-feet,monthly
+for,fb,observed,feet,daily
+for,fb,observed,feet,monthly
+for,im,observed,1000 af,monthly
+for,mm,observed,degF,daily
+for,mn,observed,degF,daily
+for,mx,observed,degF,daily
+for,ob,observed,degF,instant
+for,om,observed,1000 af,monthly
+for,pm,observed,inches,monthly
+for,qc,observed,cfs,instant
+for,qj,observed,cfs,daily
+gli,fb,observed,feet,daily
+gli,fb,observed,feet,monthly
+grs,af,observed,acre-feet,daily
+grs,af,observed,acre-feet,monthly
+grs,fb,observed,feet,daily
+grs,fb,observed,feet,monthly
+grs,im,observed,1000 af,monthly
+grs,om,observed,1000 af,monthly
+grs,qd,observed,cfs,daily
+grs,qm,observed,1000 af,monthly
+grs,qu,observed,cfs,daily
+grs,qu,observed,cfs,monthly
+hay,af,observed,acre-feet,daily
+hay,af,observed,acre-feet,monthly
+hay,fb,observed,feet,daily
+hay,fb,observed,feet,monthly
+hay,id,observed,cfs,daily
+hay,im,observed,1000 af,monthly
+hay,mm,observed,degF,daily
+hay,mn,observed,degF,daily
+hay,mx,observed,degF,daily
+hay,ob,observed,degF,instant
+hay,om,observed,1000 af,monthly
+hay,pc,observed,inches,instant
+hay,pm,observed,inches,monthly
+hay,pp,observed,inches,daily
+hay,pu,observed,inches,daily
+hay,q,observed,cfs,instant
+hay,qd,observed,cfs,daily
+hay,qm,observed,1000 af,monthly
+hay,ud,observed,degAz,daily
+hay,wd,observed,degAz,instant
+hay,wf,observed,degF,instant
+hay,ws,observed,mph,instant
+hen,af,observed,acre-feet,daily
+hen,af,observed,acre-feet,monthly
+hen,fb,observed,feet,daily
+hen,fb,observed,feet,monthly
+hen,im,observed,1000 af,monthly
+hen,om,observed,1000 af,monthly
+hgh,af,observed,acre-feet,daily
+hgh,af,observed,acre-feet,monthly
+hgh,fb,observed,feet,daily
+hgh,fb,observed,feet,monthly
+hgh,im,observed,1000 af,monthly
+hgh,om,observed,1000 af,monthly
+hgh,pm,observed,inches,monthly
+hgh,qm,observed,1000 af,monthly
+hgh,qs,observed,cfs,daily
+hgh,qu,observed,cfs,daily
+hgh,qu,observed,cfs,monthly
+hgh,qv,observed,cfs,daily
+hpd,af,observed,acre-feet,daily
+hpd,af,observed,acre-feet,monthly
+hpd,fb,observed,feet,daily
+hpd,fb,observed,feet,monthly
+hpd,im,observed,1000 af,monthly
+hpd,mm,observed,degF,daily
+hpd,mn,observed,degF,daily
+hpd,mx,observed,degF,daily
+hpd,ob,observed,degF,instant
+hpd,om,observed,1000 af,monthly
+hpd,q,observed,cfs,instant
+hpd,qc,observed,cfs,instant
+hpd,qd,observed,cfs,daily
+hpd,qj,observed,cfs,daily
+hpd,qu,observed,cfs,daily
+hpd,qu,observed,cfs,monthly
+hpd,wf,observed,degF,instant
+hya,af,observed,acre-feet,daily
+hya,af,observed,acre-feet,monthly
+hya,fb,observed,feet,daily
+hya,fb,observed,feet,monthly
+hya,gh,observed,feet,instant
+hya,im,observed,1000 af,monthly
+hya,mm,observed,degF,daily
+hya,mn,observed,degF,daily
+hya,mx,observed,degF,daily
+hya,ob,observed,degF,instant
+hya,om,observed,1000 af,monthly
+hya,pc,observed,inches,instant
+hya,pm,observed,inches,monthly
+hya,pp,observed,inches,daily
+hya,pu,observed,inches,daily
+hya,q,observed,cfs,instant
+hya,qd,observed,cfs,daily
+hya,qu,observed,cfs,daily
+hya,qu,observed,cfs,monthly
+hya,ud,observed,degAz,daily
+hya,wd,observed,degAz,instant
+hya,wf,observed,degF,instant
+hya,ws,observed,mph,instant
+isl,af,observed,acre-feet,daily
+isl,af,observed,acre-feet,monthly
+isl,fb,observed,feet,daily
+isl,fb,observed,feet,monthly
+isl,id,observed,cfs,daily
+isl,im,observed,1000 af,monthly
+isl,mm,observed,degF,daily
+isl,mn,observed,degF,daily
+isl,mx,observed,degF,daily
+isl,ob,observed,degF,instant
+isl,om,observed,1000 af,monthly
+isl,pm,observed,inches,monthly
+isl,q,observed,cfs,instant
+isl,qd,observed,cfs,daily
+isl,qm,observed,1000 af,monthly
+jck,af,observed,acre-feet,daily
+jck,af,observed,acre-feet,monthly
+jck,fb,observed,feet,daily
+jck,fb,observed,feet,monthly
+jck,gh,observed,feet,instant
+jck,hj,observed,feet,instant
+jck,im,observed,1000 af,monthly
+jck,mm,observed,degF,daily
+jck,mn,observed,degF,daily
+jck,mx,observed,degF,daily
+jck,ob,observed,degF,instant
+jck,om,observed,1000 af,monthly
+jck,pc,observed,inches,instant
+jck,pm,observed,inches,monthly
+jck,pp,observed,inches,daily
+jck,pu,observed,inches,daily
+jck,q,observed,cfs,instant
+jck,qd,observed,cfs,daily
+jck,qm,observed,1000 af,monthly
+jck,qu,observed,cfs,daily
+jck,qu,observed,cfs,monthly
+jck,wf,observed,degF,instant
+kac,af,observed,acre-feet,daily
+kac,af,observed,acre-feet,monthly
+kac,fb,observed,feet,daily
+kac,fb,observed,feet,monthly
+kac,gh,observed,feet,instant
+kac,im,observed,1000 af,monthly
+kac,mm,observed,degF,daily
+kac,mn,observed,degF,daily
+kac,mx,observed,degF,daily
+kac,om,observed,1000 af,monthly
+kac,pc,observed,inches,instant
+kac,pm,observed,inches,monthly
+kac,pp,observed,inches,daily
+kac,q,observed,cfs,instant
+kac,qd,observed,cfs,daily
+kac,qm,observed,1000 af,monthly
+kac,qu,observed,cfs,daily
+kac,qu,observed,cfs,monthly
+kee,af,observed,acre-feet,daily
+kee,af,observed,acre-feet,monthly
+kee,fb,observed,feet,daily
+kee,fb,observed,feet,monthly
+kee,gh,observed,feet,instant
+kee,im,observed,1000 af,monthly
+kee,mm,observed,degF,daily
+kee,mn,observed,degF,daily
+kee,mx,observed,degF,daily
+kee,ob,observed,degF,instant
+kee,om,observed,1000 af,monthly
+kee,pc,observed,inches,instant
+kee,pm,observed,inches,monthly
+kee,pp,observed,inches,daily
+kee,q,observed,cfs,instant
+kee,qd,observed,cfs,daily
+kee,qm,observed,1000 af,monthly
+kee,qu,observed,cfs,daily
+kee,qu,observed,cfs,monthly
+ker,af,observed,acre-feet,daily
+ker,af,observed,acre-feet,monthly
+ker,fb,observed,feet,daily
+ker,fb,observed,feet,monthly
+low,af,observed,acre-feet,daily
+low,af,observed,acre-feet,monthly
+low,fb,observed,feet,daily
+low,fb,observed,feet,monthly
+low,im,observed,1000 af,monthly
+low,om,observed,1000 af,monthly
+low,pm,observed,inches,monthly
+luc,af,observed,acre-feet,daily
+luc,af,observed,acre-feet,monthly
+luc,fb,observed,feet,daily
+luc,fb,observed,feet,monthly
+luc,id,observed,cfs,daily
+luc,im,observed,1000 af,monthly
+luc,om,observed,1000 af,monthly
+luc,pm,observed,inches,monthly
+luc,q,observed,cfs,instant
+luc,qd,observed,cfs,daily
+luc,qm,observed,1000 af,monthly
+luc,qr,observed,cfs,daily
+luc,qrd,observed,cfs,daily
+luc,qs,observed,cfs,daily
+luc,qsd,observed,cfs,daily
+luc,qt,observed,cfs,daily
+luc,qu,observed,cfs,daily
+luc,qu,observed,cfs,monthly
+man,af,observed,acre-feet,daily
+man,af,observed,acre-feet,monthly
+man,fb,observed,feet,daily
+man,fb,observed,feet,monthly
+man,im,observed,1000 af,monthly
+man,om,observed,1000 af,monthly
+man,qu,observed,cfs,daily
+man,qu,observed,cfs,monthly
+mck,af,observed,acre-feet,daily
+mck,af,observed,acre-feet,monthly
+mck,fb,observed,feet,daily
+mck,fb,observed,feet,monthly
+mck,im,observed,1000 af,monthly
+mck,om,observed,1000 af,monthly
+mil,af,observed,acre-feet,daily
+mil,af,observed,acre-feet,monthly
+mil,fb,observed,feet,daily
+mil,fb,observed,feet,monthly
+mil,id,observed,cfs,daily
+mil,im,observed,1000 af,monthly
+mil,om,observed,1000 af,monthly
+mil,qt,observed,cfs,daily
+min,af,observed,acre-feet,daily
+min,af,observed,acre-feet,monthly
+min,fb,observed,feet,daily
+min,fb,observed,feet,monthly
+min,gh,observed,feet,instant
+min,id,observed,cfs,daily
+min,im,observed,1000 af,monthly
+min,mm,observed,degF,daily
+min,mn,observed,degF,daily
+min,mx,observed,degF,daily
+min,ob,observed,degF,instant
+min,om,observed,1000 af,monthly
+min,pc,observed,inches,instant
+min,pm,observed,inches,monthly
+min,pp,observed,inches,daily
+min,pu,observed,inches,daily
+min,qt,observed,cfs,daily
+och,af,observed,acre-feet,daily
+och,af,observed,acre-feet,monthly
+och,fb,observed,feet,daily
+och,fb,observed,feet,monthly
+och,im,observed,1000 af,monthly
+och,om,observed,1000 af,monthly
+och,qt,observed,cfs,daily
+och,qu,observed,cfs,daily
+och,qu,observed,cfs,monthly
+owy,af,observed,acre-feet,daily
+owy,af,observed,acre-feet,monthly
+owy,fb,observed,feet,daily
+owy,fb,observed,feet,monthly
+owy,gh,observed,feet,instant
+owy,hj,observed,feet,instant
+owy,im,observed,1000 af,monthly
+owy,mm,observed,degF,daily
+owy,mn,observed,degF,daily
+owy,mx,observed,degF,daily
+owy,ob,observed,degF,instant
+owy,om,observed,1000 af,monthly
+owy,pc,observed,inches,instant
+owy,pm,observed,inches,monthly
+owy,pp,observed,inches,daily
+owy,pu,observed,inches,daily
+owy,q,observed,cfs,instant
+owy,qd,observed,cfs,daily
+owy,qm,observed,1000 af,monthly
+owy,qt,observed,cfs,daily
+owy,qu,observed,cfs,daily
+owy,qu,observed,cfs,monthly
+owy,wf,observed,degF,instant
+pal,af,observed,acre-feet,daily
+pal,af,observed,acre-feet,monthly
+pal,fb,observed,feet,daily
+pal,fb,observed,feet,monthly
+pal,gh,observed,feet,instant
+pal,id,observed,cfs,daily
+pal,im,observed,1000 af,monthly
+pal,om,observed,1000 af,monthly
+pal,pm,observed,inches,monthly
+pay,af,observed,acre-feet,daily
+pay,af,observed,acre-feet,monthly
+pay,fb,observed,feet,daily
+pay,fb,observed,feet,monthly
+pay,im,observed,1000 af,monthly
+pay,om,observed,1000 af,monthly
+phl,af,observed,acre-feet,daily
+phl,af,observed,acre-feet,monthly
+phl,fb,observed,feet,daily
+phl,fb,observed,feet,monthly
+phl,gh,observed,feet,instant
+phl,hj,observed,feet,instant
+phl,im,observed,1000 af,monthly
+phl,mm,observed,degF,daily
+phl,mn,observed,degF,daily
+phl,mx,observed,degF,daily
+phl,ob,observed,degF,instant
+phl,om,observed,1000 af,monthly
+phl,pc,observed,inches,instant
+phl,pm,observed,inches,monthly
+phl,pp,observed,inches,daily
+phl,pu,observed,inches,daily
+phl,q,observed,cfs,instant
+phl,qd,observed,cfs,daily
+phl,qm,observed,1000 af,monthly
+phl,qu,observed,cfs,daily
+phl,qu,observed,cfs,monthly
+phl,wf,observed,degF,instant
+pot,af,observed,acre-feet,daily
+pot,af,observed,acre-feet,monthly
+pot,fb,observed,feet,daily
+pot,fb,observed,feet,monthly
+pot,im,observed,1000 af,monthly
+pot,om,observed,1000 af,monthly
+pot,pm,observed,inches,monthly
+prv,af,observed,acre-feet,daily
+prv,af,observed,acre-feet,monthly
+prv,fb,observed,feet,daily
+prv,fb,observed,feet,monthly
+prv,im,observed,1000 af,monthly
+prv,om,observed,1000 af,monthly
+rim,af,observed,acre-feet,daily
+rim,af,observed,acre-feet,monthly
+rim,fb,observed,feet,daily
+rim,fb,observed,feet,monthly
+rim,gh,observed,feet,instant
+rim,im,observed,1000 af,monthly
+rim,mm,observed,degF,daily
+rim,mn,observed,degF,daily
+rim,mx,observed,degF,daily
+rim,ob,observed,degF,instant
+rim,om,observed,1000 af,monthly
+rim,pc,observed,inches,instant
+rim,pm,observed,inches,monthly
+rim,pp,observed,inches,daily
+rim,q,observed,cfs,instant
+rim,qd,observed,cfs,daily
+rim,qm,observed,1000 af,monthly
+rim,qu,observed,cfs,daily
+rim,qu,observed,cfs,monthly
+rir,af,observed,acre-feet,daily
+rir,af,observed,acre-feet,monthly
+rir,fb,observed,feet,daily
+rir,fb,observed,feet,monthly
+rir,im,observed,1000 af,monthly
+rir,om,observed,1000 af,monthly
+rir,q,observed,cfs,instant
+rir,qd,observed,cfs,daily
+rir,qm,observed,1000 af,monthly
+rir,qu,observed,cfs,daily
+rir,qu,observed,cfs,monthly
+rsa,af,observed,acre-feet,daily
+rsa,af,observed,acre-feet,monthly
+rsa,fb,observed,feet,daily
+rsa,fb,observed,feet,monthly
+rsa,im,observed,1000 af,monthly
+rsa,mm,observed,degF,daily
+rsa,mn,observed,degF,daily
+rsa,mx,observed,degF,daily
+rsa,ob,observed,degF,instant
+rsa,om,observed,1000 af,monthly
+rsa,q,observed,cfs,instant
+rsa,qc,observed,cfs,instant
+rsa,qd,observed,cfs,daily
+rsa,qj,observed,cfs,daily
+sco,af,observed,acre-feet,daily
+sco,af,observed,acre-feet,monthly
+sco,fb,observed,feet,daily
+sco,fb,observed,feet,monthly
+sco,im,observed,1000 af,monthly
+sco,om,observed,1000 af,monthly
+sco,pm,observed,inches,monthly
+sco,ud,observed,degAz,daily
+sco,wd,observed,degAz,instant
+sco,ws,observed,mph,instant
+sct,fb,observed,feet,daily
+sct,fb,observed,feet,monthly
+sol,af,observed,acre-feet,daily
+sol,af,observed,acre-feet,monthly
+sol,fb,observed,feet,daily
+sol,fb,observed,feet,monthly
+sol,gh,observed,feet,instant
+sol,im,observed,1000 af,monthly
+sol,mm,observed,degF,daily
+sol,mn,observed,degF,daily
+sol,mx,observed,degF,daily
+sol,ob,observed,degF,instant
+sol,om,observed,1000 af,monthly
+sol,q,observed,cfs,instant
+sol,qd,observed,cfs,daily
+sol,qm,observed,1000 af,monthly
+sol,qu,observed,cfs,daily
+sol,qu,observed,cfs,monthly
+sol,wf,observed,degF,instant
+thf,af,observed,acre-feet,daily
+thf,af,observed,acre-feet,monthly
+thf,fb,observed,feet,daily
+thf,fb,observed,feet,monthly
+thf,gh,observed,feet,instant
+thf,hj,observed,feet,instant
+thf,id,observed,cfs,daily
+thf,im,observed,1000 af,monthly
+thf,om,observed,1000 af,monthly
+thf,q,observed,cfs,instant
+thf,qd,observed,cfs,daily
+thf,qm,observed,1000 af,monthly
+thf,wf,observed,degF,instant
+uny,af,observed,acre-feet,daily
+uny,af,observed,acre-feet,monthly
+uny,fb,observed,feet,daily
+uny,fb,observed,feet,monthly
+uny,gh,observed,feet,instant
+uny,hj,observed,feet,instant
+uny,im,observed,1000 af,monthly
+uny,mm,observed,degF,daily
+uny,mn,observed,degF,daily
+uny,mx,observed,degF,daily
+uny,ob,observed,degF,instant
+uny,om,observed,1000 af,monthly
+uny,pc,observed,inches,instant
+uny,pm,observed,inches,monthly
+uny,pp,observed,inches,daily
+uny,pu,observed,inches,daily
+uny,q,observed,cfs,instant
+uny,qd,observed,cfs,daily
+uny,qm,observed,1000 af,monthly
+uny,qu,observed,cfs,daily
+uny,qu,observed,cfs,monthly
+uny,wf,observed,degF,instant
+uny,wi,observed,degF,instant
+uny,wk,observed,degF,instant
+uny,wz,observed,degF,instant
+wah,af,observed,acre-feet,daily
+wah,af,observed,acre-feet,monthly
+wah,fb,observed,feet,daily
+wah,fb,observed,feet,monthly
+wah,qc,observed,cfs,instant
+wah,qj,observed,cfs,daily
+war,af,observed,acre-feet,daily
+war,af,observed,acre-feet,monthly
+war,fb,observed,feet,daily
+war,fb,observed,feet,monthly
+war,im,observed,1000 af,monthly
+war,om,observed,1000 af,monthly
+war,pm,observed,inches,monthly
+war,qu,observed,cfs,daily
+war,qu,observed,cfs,monthly
+was,af,observed,acre-feet,daily
+was,af,observed,acre-feet,monthly
+was,fb,observed,feet,daily
+was,fb,observed,feet,monthly
+was,gh,observed,feet,instant
+was,q,observed,cfs,instant
+was,qd,observed,cfs,daily
+was,qu,observed,cfs,daily
+was,qu,observed,cfs,monthly
+wic,af,observed,acre-feet,daily
+wic,af,observed,acre-feet,monthly
+wic,fb,observed,feet,daily
+wic,fb,observed,feet,monthly
+wic,im,observed,1000 af,monthly
+wic,om,observed,1000 af,monthly
+wic,pm,observed,inches,monthly
+wld,af,observed,acre-feet,daily
+wld,af,observed,acre-feet,monthly
+wld,fb,observed,feet,daily
+wld,fb,observed,feet,monthly
+wld,im,observed,1000 af,monthly
+wld,mm,observed,degF,daily
+wld,mn,observed,degF,daily
+wld,mx,observed,degF,daily
+wld,ob,observed,degF,instant
+wld,om,observed,1000 af,monthly
+wld,pm,observed,inches,monthly
+wod,af,observed,acre-feet,daily
+wod,af,observed,acre-feet,monthly
+wod,fb,observed,feet,daily
+wod,fb,observed,feet,monthly
+wod,im,observed,1000 af,monthly
+wod,om,observed,1000 af,monthly
